@@ -1,5 +1,5 @@
 language = "html"
-run = "run"
+run = "npm start"
 
 [languages]
 
